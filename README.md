@@ -4,8 +4,6 @@
 
 I'm Gabriel Alvarez a Full Stack Developer, i enjoy using my  attention to detail, my unequivocal love for doing things. I have always looked for opportunities and challenges that are meaningful to me.
 
-
-
  
 [![Linkedin Badge](https://img.shields.io/badge/-gaaabriel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/gaaabriel) 
 [![Mail Badge](https://img.shields.io/badge/-@sangaabriel-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sangaabriel/) 
