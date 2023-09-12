@@ -13,7 +13,6 @@ I'm Gabriel Alvarez a Full Stack Developer, i enjoy using my  attention to detai
 [![Stack Overflow Badge](https://img.shields.io/badge/-gabriel-ff9900?style=flat&labelColor=ff9900&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22540900/gabriel-alvarez)
 
 
-
 ### What I currently Do
 
 - 🎓 I'm a Systems Engineering student at the University of San Carlos de Guatemala.
