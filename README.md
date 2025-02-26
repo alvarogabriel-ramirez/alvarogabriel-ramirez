@@ -6,7 +6,6 @@ I'm Gabriel Alvarez a Full Stack Developer, i enjoy using my  attention to detai
 
  
 [![LinkedIn Badge](https://img.shields.io/badge/-Gabriel%20Alvarez-%230e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaaabriel) 
-[![Mail Badge](https://img.shields.io/badge/-@sangaabriel-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sangaabriel/) 
 [![Mail Badge](https://img.shields.io/badge/-gabrielramirez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alvarogabrielramirezalvarez@gmail.com)
 [![Stack Overflow Badge](https://img.shields.io/badge/-gabriel-ff9900?style=flat&labelColor=ff9900&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22540900/gabriel-alvarez)
 
